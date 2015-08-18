@@ -13,4 +13,4 @@ The R script called run_analysis.R provides a series of operations that allow th
 Human Activity Recognition Using Smartphones Data Set into a single table.
 http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
-
+The R script is a single script and it will combine the data from the  body acceleration and gravity from the time and frequency measures. The raw data does not contain headers and the script will read them from another file.
